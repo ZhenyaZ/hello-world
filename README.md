@@ -1,2 +1,2 @@
 # hello-world
-Новый репозиторий
+I like programming C#
